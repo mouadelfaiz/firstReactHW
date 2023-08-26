@@ -1,0 +1,47 @@
+.EmployeeInfo {
+  border: 1px solid black;
+  width: 80%;
+  height: 75vh;
+  margin: 10px 100px 0;
+  border-radius: 5px;
+}
+
+.employeeName {
+  border-bottom: 1px solid black;
+  height: 15vh;
+  
+}
+
+.details {
+  display: flex;
+  border-bottom: 1px solid black;
+  height: 14.9vh;
+  font-size: 15px;
+  text-align: center;
+  flex-direction: column;
+  padding-left: 10px; 
+  
+}
+
+.bottom {
+  border-radius: 5px;
+}
+
+.headline {
+  display: flex;
+  align-items: flex-start;
+}
+
+.para {
+  display: flex;
+}
+
+.employeeName {
+  display: flex;
+}
+
+.employeeName img {
+  width: 90px;
+  height: 90px;
+  padding: 20px;
+}

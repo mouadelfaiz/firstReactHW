@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  border: 5px solid black;
+  gap: 10px;
+  padding: 10px;
+  font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;
+}
+.HomePage {
+width: 50vw;
+height: 90vh;
+border: 3px solid orange;
+}
+
+.EmployeePage {
+  width: 50vw;
+height: 90vh;
+border: 3px solid rgba(102, 3, 3, 0.891);
+}

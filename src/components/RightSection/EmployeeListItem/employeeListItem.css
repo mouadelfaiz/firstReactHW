@@ -1,0 +1,19 @@
+.EmployeeListItem{
+  display: flex;
+  border: 3px solid red;
+  height: 10.4vh;
+  margin: 3px;
+}
+.EmployeeListItem img {
+  width: 60px;
+  height: 50px;
+}
+
+li {
+  list-style-type: none;
+  align-items: left;
+}
+
+#first {
+  font-weight: bold;
+}

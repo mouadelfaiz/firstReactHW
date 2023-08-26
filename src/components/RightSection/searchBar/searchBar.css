@@ -1,0 +1,13 @@
+.SearchBar {
+  border: 3px solid green;
+  height: 9vh;
+  margin: 3px;
+}
+
+.SearchBar input {
+  height: 7vh;
+  width: 45vw;
+  margin: 6px 10px;
+  border-radius: 15px;
+  border: 1px solid gray;
+}

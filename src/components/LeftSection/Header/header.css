@@ -1,0 +1,12 @@
+.Header {
+  border: 3px solid rgb(51, 89, 227);
+  height: 9vh;
+  margin: 3px;
+  text-align: center;
+  font-size: 2em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#employeeHeader {
+  font-size: 80px;
+}
